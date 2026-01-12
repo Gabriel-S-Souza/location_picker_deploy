@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/Gabriel-S-Souza/location_picker_deploy/releases/latest/download/app-release.apk",
-  "description": "Versão inicial do app com 3 formas de obter a localização do paciente:\n\n 1. Capturando a localização do dispositivo;\n 2. Selecionando no mapa;\n 3. Abrindo a localização fixa enviada pelo paciente no whatsapp com este app."
+  "description": "Versão 1.0.1 - Melhorias e correções:\n\n• Sistema de verificação de atualizações implementado\n• Melhorias na interface do usuário\n• Correções de bugs menores\n• Performance otimizada"
 }
 
