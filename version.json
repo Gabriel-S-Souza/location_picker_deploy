@@ -1,6 +1,6 @@
 {
-  "version": "1.0.9",
+  "version": "1.0.10",
   "url": "https://github.com/Gabriel-S-Souza/location_picker_deploy/releases/latest/download/app-release.apk",
-  "description": "Versão 1.0.9: Adiciona campo de observações ao paciente"
+  "description": "Versão 1.0.10:\n\n Adiciona campo de observações ao paciente\n\n Ajusta zoom inicial do mapa"
 }
 
